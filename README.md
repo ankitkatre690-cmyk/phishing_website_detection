@@ -96,6 +96,10 @@ Open in browser:
 
 ```
 http://localhost:8501
+
+after deployment
+
+https://phishingwebsitedetection-vi8gor2xxsfxnckfgzvdfk.streamlit.app
 ```
 
 ---
